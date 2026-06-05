@@ -21,9 +21,7 @@
 
 * 🌾 **[PKM DeManduk](https://wadukmanduk.my.id/)** 
 * 🏛️ **Government Internship** - Sistem Informasi Kinerja Pegawai.
-* 🔥 **Smart Gas & Fire Guard** - Prototipe IoT untuk deteksi keamanan terpadu.
-* ♻️ **AI Waste Detection** - Sistem deteksi sampah organik & anorganik.
-* 📈 **G-TRACK** - Proyek inovasi di bidang *Applied Health Science and Innovation*.
+
 
 ---
 
